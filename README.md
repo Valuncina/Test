@@ -34,8 +34,9 @@ __________
 
 ## 安装
 ```bash
+#确保自己当前路径包含CmakeLists。txt
 $ cmake -S . -B build # '.'两端必须有空格
-$ --build build -j
+$ cmake --build build -j
 ```
 ## 运行
 ```bash
