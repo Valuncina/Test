@@ -42,3 +42,5 @@ $ cmake --build build -j
 ```bash
 $ ./build/hello #注意是否在正确的相对路径
 ```
+## 预期输出
+hello world
